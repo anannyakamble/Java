@@ -1,0 +1,8 @@
+2025-03-11 16:06:19 [com.threads.ThreadLoggingDemo.main()] INFO  com.threads.ThreadLoggingDemo - Starting multi-threaded application...
+2025-03-11 16:06:19 [com.threads.ThreadLoggingDemo.main()] INFO  com.threads.ThreadLoggingDemo - All threads have been started.
+2025-03-11 16:06:19 [Thread-3] INFO  com.threads.MyThread - Thread 2 started.
+2025-03-11 16:06:19 [Thread-2] INFO  com.threads.MyThread - Thread 1 started.
+2025-03-11 16:06:19 [Thread-4] INFO  com.threads.MyThread - Thread 3 started.
+2025-03-11 16:06:21 [Thread-2] INFO  com.threads.MyThread - Thread 1 finished execution.
+2025-03-11 16:06:21 [Thread-4] INFO  com.threads.MyThread - Thread 3 finished execution.
+2025-03-11 16:06:21 [Thread-3] INFO  com.threads.MyThread - Thread 2 finished execution.
